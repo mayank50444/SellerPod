@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/react-native-geolocation-service.build/Objects-normal/x86_64/react-native-geolocation-service-master.dia",
+    "emit-module-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/react-native-geolocation-service.build/Objects-normal/x86_64/react-native-geolocation-service-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/react-native-geolocation-service.build/Objects-normal/x86_64/react-native-geolocation-service-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/react-native-geolocation-service.build/Objects-normal/x86_64/react-native-geolocation-service-master.swiftdeps"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/node_modules/react-native-geolocation-service/ios/RNFusedLocation.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/react-native-geolocation-service.build/Objects-normal/x86_64/RNFusedLocation.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/react-native-geolocation-service.build/Objects-normal/x86_64/RNFusedLocation.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/react-native-geolocation-service.build/Objects-normal/x86_64/RNFusedLocation.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/react-native-geolocation-service.build/Objects-normal/x86_64/RNFusedLocation.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/react-native-geolocation-service.build/Objects-normal/x86_64/RNFusedLocation.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/react-native-geolocation-service.build/Objects-normal/x86_64/RNFusedLocation.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/react-native-geolocation-service.build/Objects-normal/x86_64/RNFusedLocation.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/react-native-geolocation-service.build/Objects-normal/x86_64/RNFusedLocation~partial.swiftmodule"
+  }
+}

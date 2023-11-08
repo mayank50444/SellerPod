@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSCounter-master.dia",
+    "emit-module-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSCounter-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSCounter-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSCounter-master.swiftdeps"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FPSCounter/Sources/FPSCounter.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSCounter.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSCounter.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSCounter.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSCounter.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSCounter.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSCounter.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSCounter.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSCounter~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FPSCounter/Sources/FPSStatusBarViewController.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarViewController.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarViewController.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarViewController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarViewController.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarViewController.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarViewController.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarViewController.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarViewController~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FPSCounter/Sources/FPSStatusBarWindow.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarWindow.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarWindow.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarWindow.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarWindow.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarWindow.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarWindow.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarWindow.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FPSCounter.build/Objects-normal/x86_64/FPSStatusBarWindow~partial.swiftmodule"
+  }
+}

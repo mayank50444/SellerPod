@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryPrivate-master.dia",
+    "emit-module-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryPrivate-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryPrivate-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryPrivate-master.swiftdeps"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/SentryPrivate/Sources/Swift/MetricKit/SentryMXCallStackTree.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXCallStackTree.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXCallStackTree.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXCallStackTree.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXCallStackTree.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXCallStackTree.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXCallStackTree.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXCallStackTree.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXCallStackTree~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/SentryPrivate/Sources/Swift/MetricKit/SentryMXManager.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXManager.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXManager.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXManager.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXManager.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXManager.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXManager.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXManager.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SentryMXManager~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/SentryPrivate/Sources/Swift/Sentry.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/Sentry.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/Sentry.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/Sentry.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/Sentry.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/Sentry.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/Sentry.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/Sentry.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/Sentry~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/SentryPrivate/Sources/Swift/SwiftDescriptor.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SwiftDescriptor.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SwiftDescriptor.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SwiftDescriptor.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SwiftDescriptor.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SwiftDescriptor.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SwiftDescriptor.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SwiftDescriptor.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/SentryPrivate.build/Objects-normal/x86_64/SwiftDescriptor~partial.swiftmodule"
+  }
+}

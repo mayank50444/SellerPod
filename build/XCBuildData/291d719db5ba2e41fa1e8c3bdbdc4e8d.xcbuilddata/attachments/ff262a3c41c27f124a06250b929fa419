@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/FBSDKCoreKit-master.dia",
+    "emit-module-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/FBSDKCoreKit-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/FBSDKCoreKit-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/FBSDKCoreKit-master.swiftdeps"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/AccessToken.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/AccessToken.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/AccessToken.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/AccessToken.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/AccessToken.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/AccessToken.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/AccessToken.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/AccessToken.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/AccessToken~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/Imports.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Imports.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Imports.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Imports.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Imports.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Imports.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Imports.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Imports.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Imports~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/Permission.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Permission.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Permission.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Permission.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Permission.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Permission.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Permission.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Permission.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Permission~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/Settings.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Settings.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Settings.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Settings.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Settings.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Settings.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Settings.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Settings.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/Objects-normal/x86_64/Settings~partial.swiftmodule"
+  }
+}

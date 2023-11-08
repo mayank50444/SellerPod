@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Sentry.build/Objects-normal/x86_64/Sentry-master.dia",
+    "emit-module-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Sentry.build/Objects-normal/x86_64/Sentry-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Sentry.build/Objects-normal/x86_64/Sentry-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Sentry.build/Objects-normal/x86_64/Sentry-master.swiftdeps"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/Sentry/Sources/Swift/Sentry.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Sentry.build/Objects-normal/x86_64/Sentry.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Sentry.build/Objects-normal/x86_64/Sentry.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Sentry.build/Objects-normal/x86_64/Sentry.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Sentry.build/Objects-normal/x86_64/Sentry.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Sentry.build/Objects-normal/x86_64/Sentry.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Sentry.build/Objects-normal/x86_64/Sentry.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Sentry.build/Objects-normal/x86_64/Sentry.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Sentry.build/Objects-normal/x86_64/Sentry~partial.swiftmodule"
+  }
+}

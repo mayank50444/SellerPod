@@ -1,0 +1,148 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/FittedSheets-master.dia",
+    "emit-module-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/FittedSheets-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/FittedSheets-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/FittedSheets-master.swiftdeps"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FittedSheets/FittedSheets/Compatible.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Compatible.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Compatible.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Compatible.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Compatible.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Compatible.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Compatible.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Compatible.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Compatible~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FittedSheets/FittedSheets/InitialTouchPanGestureRecognizer.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/InitialTouchPanGestureRecognizer.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/InitialTouchPanGestureRecognizer.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/InitialTouchPanGestureRecognizer.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/InitialTouchPanGestureRecognizer.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/InitialTouchPanGestureRecognizer.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/InitialTouchPanGestureRecognizer.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/InitialTouchPanGestureRecognizer.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/InitialTouchPanGestureRecognizer~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FittedSheets/FittedSheets/Localization/Localize.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Localize.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Localize.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Localize.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Localize.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Localize.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Localize.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Localize.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Localize~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FittedSheets/FittedSheets/SheetContentViewController.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewController.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewController.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewController.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewController.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewController.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewController.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewController~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FittedSheets/FittedSheets/SheetContentViewDelegate.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewDelegate.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewDelegate.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewDelegate.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewDelegate.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewDelegate.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewDelegate.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetContentViewDelegate~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FittedSheets/FittedSheets/SheetOptions.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetOptions.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetOptions.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetOptions.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetOptions.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetOptions.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetOptions.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetOptions.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetOptions~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FittedSheets/FittedSheets/SheetSize.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetSize.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetSize.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetSize.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetSize.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetSize.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetSize.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetSize.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetSize~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FittedSheets/FittedSheets/SheetTransition.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetTransition.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetTransition.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetTransition.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetTransition.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetTransition.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetTransition.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetTransition.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetTransition~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FittedSheets/FittedSheets/SheetView.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetView.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetView.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetView.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetView.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetView.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetView.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetView~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FittedSheets/FittedSheets/SheetViewController.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewController.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewController.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewController.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewController.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewController.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewController.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewController~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FittedSheets/FittedSheets/SheetViewDelegate.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewDelegate.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewDelegate.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewDelegate.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewDelegate.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewDelegate.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewDelegate.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/SheetViewDelegate~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FittedSheets/FittedSheets/UIColorExtension.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIColorExtension.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIColorExtension.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIColorExtension.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIColorExtension.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIColorExtension.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIColorExtension.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIColorExtension.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIColorExtension~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FittedSheets/FittedSheets/UIViewControllerExtension.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIViewControllerExtension.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIViewControllerExtension.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIViewControllerExtension.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIViewControllerExtension.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIViewControllerExtension.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIViewControllerExtension.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIViewControllerExtension.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/UIViewControllerExtension~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/FittedSheets/FittedSheets/Yalta.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Yalta.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Yalta.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Yalta.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Yalta.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Yalta.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Yalta.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Yalta.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/FittedSheets.build/Objects-normal/x86_64/Yalta~partial.swiftmodule"
+  }
+}

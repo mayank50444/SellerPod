@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/RNFlashList-master.dia",
+    "emit-module-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/RNFlashList-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/RNFlashList-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/RNFlashList-master.swiftdeps"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/node_modules/@shopify/flash-list/ios/Sources/AutoLayoutView.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutView.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutView.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutView.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutView.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutView.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutView.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutView~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/node_modules/@shopify/flash-list/ios/Sources/AutoLayoutViewManager.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutViewManager-56d052136211bc325488f81780e6b616.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutViewManager-56d052136211bc325488f81780e6b616.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutViewManager-56d052136211bc325488f81780e6b616.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutViewManager-56d052136211bc325488f81780e6b616.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutViewManager-56d052136211bc325488f81780e6b616.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutViewManager-56d052136211bc325488f81780e6b616.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutViewManager-56d052136211bc325488f81780e6b616.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/AutoLayoutViewManager-56d052136211bc325488f81780e6b616~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/node_modules/@shopify/flash-list/ios/Sources/CellContainer.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainer.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainer.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainer.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainer.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainer.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainer.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainer.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainer~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/node_modules/@shopify/flash-list/ios/Sources/CellContainerManager.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainerManager-66c8bec88d0592eca72a95c7e5bd3edd.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainerManager-66c8bec88d0592eca72a95c7e5bd3edd.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainerManager-66c8bec88d0592eca72a95c7e5bd3edd.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainerManager-66c8bec88d0592eca72a95c7e5bd3edd.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainerManager-66c8bec88d0592eca72a95c7e5bd3edd.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainerManager-66c8bec88d0592eca72a95c7e5bd3edd.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainerManager-66c8bec88d0592eca72a95c7e5bd3edd.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RNFlashList.build/Objects-normal/x86_64/CellContainerManager-66c8bec88d0592eca72a95c7e5bd3edd~partial.swiftmodule"
+  }
+}

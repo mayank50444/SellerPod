@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Leegality.build/Objects-normal/x86_64/Leegality-master.dia",
+    "emit-module-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Leegality.build/Objects-normal/x86_64/Leegality-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Leegality.build/Objects-normal/x86_64/Leegality-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Leegality.build/Objects-normal/x86_64/Leegality-master.swiftdeps"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/Leegality/Leegality/Leegality.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Leegality.build/Objects-normal/x86_64/Leegality.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Leegality.build/Objects-normal/x86_64/Leegality.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Leegality.build/Objects-normal/x86_64/Leegality.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Leegality.build/Objects-normal/x86_64/Leegality.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Leegality.build/Objects-normal/x86_64/Leegality.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Leegality.build/Objects-normal/x86_64/Leegality.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Leegality.build/Objects-normal/x86_64/Leegality.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/Leegality.build/Objects-normal/x86_64/Leegality~partial.swiftmodule"
+  }
+}

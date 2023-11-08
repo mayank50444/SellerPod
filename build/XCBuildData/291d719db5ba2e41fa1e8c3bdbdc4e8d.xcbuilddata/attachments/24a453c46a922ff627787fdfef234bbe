@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/lottie-react-native-master.dia",
+    "emit-module-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/lottie-react-native-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/lottie-react-native-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/lottie-react-native-master.swiftdeps"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/node_modules/lottie-react-native/src/ios/LottieReactNative/AnimationViewManagerModule.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/AnimationViewManagerModule.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/AnimationViewManagerModule.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/AnimationViewManagerModule.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/AnimationViewManagerModule.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/AnimationViewManagerModule.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/AnimationViewManagerModule.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/AnimationViewManagerModule.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/AnimationViewManagerModule~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/node_modules/lottie-react-native/src/ios/LottieReactNative/ContainerView.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/ContainerView.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/ContainerView.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/ContainerView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/ContainerView.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/ContainerView.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/ContainerView.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/ContainerView.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/ContainerView~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/node_modules/lottie-react-native/src/ios/LottieReactNative/PlatformColor.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/PlatformColor.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/PlatformColor.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/PlatformColor.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/PlatformColor.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/PlatformColor.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/PlatformColor.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/PlatformColor.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/lottie-react-native.build/Objects-normal/x86_64/PlatformColor~partial.swiftmodule"
+  }
+}

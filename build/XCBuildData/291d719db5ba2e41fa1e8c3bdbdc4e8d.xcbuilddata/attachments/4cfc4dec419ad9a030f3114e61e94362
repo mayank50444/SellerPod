@@ -1,0 +1,5 @@
+ extern const unsigned char iosNativeVersionString[];
+ extern const double iosNativeVersionNumber;
+
+ const unsigned char iosNativeVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:iosNative  PROJECT:housing-16" "\n";
+ const double iosNativeVersionNumber __attribute__ ((used)) = (double)16.;

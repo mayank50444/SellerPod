@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/mayank50444/EDGE-POD.git"}
+  spec.source       = { :git => "https://github.com/mayank50444/SellerPod.git" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -95,10 +95,10 @@ Pod::Spec.new do |spec|
     "View/*.swift"
   ]
 
-  # spec.preserve_paths = 'Edge.xcodeproj/*'
-  spec.resource_bundles = {
-  'SellerPod' => ['SellerPod.xcodeproj/*']
-}
+  spec.preserve_paths = 'SellerPod.xcodeproj/*'
+#   spec.resource_bundles = {
+#   'SellerPod' => ['SellerPod.xcodeproj/*']
+# }
   # spec.public_header_files = "Classes/**/*.h"
 
 
@@ -122,7 +122,7 @@ Pod::Spec.new do |spec|
   #  the lib prefix of their name.
   #
 
-  # spec.framework  = "SomeFramework"
+  spec.frameworks = 'SellerPod' # Replace 'YourFramework' with the name of your framework
   # spec.frameworks = "SomeFramework", "AnotherFramework"
 
   # spec.library   = "iconv"

@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSlider-master.dia",
+    "emit-module-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSlider-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSlider-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSlider-master.swiftdeps"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/RangeSeekSlider/Sources/RangeSeekSlider.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSlider.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSlider.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSlider.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSlider.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSlider.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSlider.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSlider.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSlider~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/RangeSeekSlider/Sources/RangeSeekSliderDelegate.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSliderDelegate.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSliderDelegate.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSliderDelegate.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSliderDelegate.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSliderDelegate.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSliderDelegate.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSliderDelegate.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/RangeSeekSliderDelegate~partial.swiftmodule"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/RangeSeekSlider/Sources/TapticEngine.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/TapticEngine.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/TapticEngine.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/TapticEngine.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/TapticEngine.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/TapticEngine.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/TapticEngine.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/TapticEngine.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/RangeSeekSlider.build/Objects-normal/x86_64/TapticEngine~partial.swiftmodule"
+  }
+}

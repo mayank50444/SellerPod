@@ -1,0 +1,6 @@
+framework module SellerPod {
+  umbrella header "SellerPod.h"
+  export *
+
+  module * { export * }
+}

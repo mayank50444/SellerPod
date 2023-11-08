@@ -1,0 +1,5 @@
+ extern const unsigned char housingVersionString[];
+ extern const double housingVersionNumber;
+
+ const unsigned char housingVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:housing  PROJECT:housing-3" "\n";
+ const double housingVersionNumber __attribute__ ((used)) = (double)3.;

@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/KeychainAccess.build/Objects-normal/x86_64/KeychainAccess-master.dia",
+    "emit-module-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/KeychainAccess.build/Objects-normal/x86_64/KeychainAccess-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/KeychainAccess.build/Objects-normal/x86_64/KeychainAccess-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/KeychainAccess.build/Objects-normal/x86_64/KeychainAccess-master.swiftdeps"
+  },
+  "/Users/mayankdubey/Desktop/housing-app-2/ios/Pods/KeychainAccess/Lib/KeychainAccess/Keychain.swift" : {
+    "const-values" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/KeychainAccess.build/Objects-normal/x86_64/Keychain.swiftconstvalues",
+    "dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/KeychainAccess.build/Objects-normal/x86_64/Keychain.d",
+    "diagnostics" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/KeychainAccess.build/Objects-normal/x86_64/Keychain.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/KeychainAccess.build/Objects-normal/x86_64/Keychain.o",
+    "llvm-bc" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/KeychainAccess.build/Objects-normal/x86_64/Keychain.bc",
+    "object" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/KeychainAccess.build/Objects-normal/x86_64/Keychain.o",
+    "swift-dependencies" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/KeychainAccess.build/Objects-normal/x86_64/Keychain.swiftdeps",
+    "swiftmodule" : "/Users/mayankdubey/Desktop/housing-app-2/ios/build/Pods.build/Debug-iphonesimulator/KeychainAccess.build/Objects-normal/x86_64/Keychain~partial.swiftmodule"
+  }
+}
